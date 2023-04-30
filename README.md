@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact)
 
-
+pod 'AAChartKit', :git => 'https://github.com/AAChartModel/AAChartKit.git'
