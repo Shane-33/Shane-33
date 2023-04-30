@@ -9,11 +9,20 @@ Shane-33/Shane-33 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true)
+![Shane's GithubStats](https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact)
 
 
-[![Shane's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Shane's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true" />
+</picture>
