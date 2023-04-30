@@ -23,3 +23,5 @@ Shane Zhu's Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shane-33&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
