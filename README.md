@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact" alt="shane-33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shane-33&" alt="shane-33"</n>/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shane-33&" alt="shane-33"></p>
 
 
 
