@@ -9,19 +9,10 @@ Shane-33/Shane-33 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+![Shane's GithubStats](https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true)
 
-
-
-
-Shane Zhu's GithubStats
-
-![GithubStats](https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true)
-
-
-
-Shane Zhu's Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact)
 
 
-[![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-33)](https://github.com/anuraghazra/github-readme-stats)
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane-33&hide=contribs,prs)
