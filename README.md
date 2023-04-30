@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Programming, Frameworks, React, and LeetCode**
 
-- 👯 I’m looking to collaborate on ** Web3.0 developmetn and Mobile Application**
+- 👯 I’m looking to collaborate on **Web3.0 developmetn and Mobile Application**
 
 - 🤝 I’m looking for help with **Django Program | Referal to TECH Company**
 
