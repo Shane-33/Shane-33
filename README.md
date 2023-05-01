@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shanshan (shane) zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanshan (shane) zhu" height="30" width="40" /></a>
-<a href="https://fb.com/shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shane-zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane-zhu" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100081318453546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100081318453546" height="30" width="40" /></a>
 <a href="https://instagram.com/shane_zhus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shane_zhus" height="30" width="40" /></a>
 </p>
 
