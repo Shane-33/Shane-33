@@ -1,49 +1,39 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Wave animation" />
 </div>
 
-###
+<h1 align="center">Hi there, I'm Shane 👋</h1>
 <p align="center">
-<a href="https://linkedin.com/in/shane-zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane-zhu" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100081318453546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100081318453546" height="30" width="40" /></a>
-<a href="https://instagram.com/shane_zhus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shane_zhus" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shane-zhu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/profile.php?id=100081318453546" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/shane_zhus" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 👨‍💻 About Me:
+- 🔭 I’m a full-stack software engineer from **Mount Holyoke College**
+- 📚 Currently learning **Algorithm Design** and **Computer Vision**
+- ⚡ Passionate about hackathons, 🎿 skiing, 🏀 basketball, and 🎵 music
+- 💞️ Open to collaborations in **Web3.0 Development**, **Mobile Applications**, and more
+- 🤝 Looking for **Internship Opportunities** in **Tech**, **Trading**, or **Finance**
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm SZ from Mount Holyoke College<br><br>- 🔭 I’m working as a full-stack software engineer <br>- 📚 I'm currently learning Algorithm and Computer Vision<br>- ⚡ In my free time I attend Hackathon Competition and 🎿 🏀 🎹 🎵<br>- 💞️ I’m looking to collaborate on Web3.0 development and Mobile Application | Welcome to any discussion on Technology | Open to Work<br>- 🤝 I’m looking for Internship Opportunities at Tech | Trading| Finance Company</p>
-
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shane-33&label=Profile%20views&color=0e75b6&style=flat" alt="shane-33" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shane-33" alt="shane-33" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
@@ -210,12 +200,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
+---
 
-###
-###
-<h3 align="left">🔥   My Stats :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true" alt="shane-33" /></p>
+### 📊 My Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact" alt="Top Languages" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shane-33&theme=dark&layout=compact" alt="shane-33" /></p>
+---
 
-###
+### 🏆 Trophies:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shane-33&theme=gruvbox" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📈 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shane-33&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
+---
+
+### 🚀 Popular Repositories:
+- **[can-did](https://github.com/Shane-33/can-did):** A collaborative app for city planning, focused on community-driven urban development and accessible technology.
+- **[Smart-City](https://github.com/Shane-33/Smart-City):** A platform for urban development and visualization, offering tools for planners and citizens alike to collaborate effectively.
+- **[AI-Predictor](https://github.com/Shane-33/AI-Predictor):** A machine learning-based prediction platform that uses state-of-the-art algorithms for forecasting trends and analyzing data in real-time.
+- **[FinTrack](https://github.com/Shane-33/FinTrack):** A financial portfolio tracker designed for individuals and small businesses, integrating with APIs to track investments and expenses.
+- **[Hackathon-Hub](https://github.com/Shane-33/Hackathon-Hub):** A resource-sharing and project-management hub for hackathon teams, enabling seamless collaboration and project tracking.
+- **[Web3-Wallet](https://github.com/Shane-33/Web3-Wallet):** A decentralized Web3 wallet application that provides secure transactions and easy onboarding for crypto and blockchain enthusiasts.
+- **[VisionaryCV](https://github.com/Shane-33/VisionaryCV):** A computer vision-based project focused on facial recognition, object detection, and custom model training pipelines.
+- **[GameOn](https://github.com/Shane-33/GameOn):** A gaming analytics dashboard that leverages player data and machine learning for optimizing game performance and user experience.
+
+---
+
