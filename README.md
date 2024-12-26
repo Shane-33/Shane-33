@@ -13,8 +13,10 @@
   <a href="https://instagram.com/shane_zhus" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://shanehub.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/web.png" alt="Website" height="30" width="40" />
+  </a>
 </p>
-
 ---
 
 ### 👨‍💻 About Me:
