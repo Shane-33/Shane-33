@@ -230,7 +230,7 @@
 ---
 
 ### 🚀 Popular Repositories:
-- **[can-did](https://github.com/Shane-33/can-did):** A collaborative app for city planning, focused on community-driven urban development and accessible technology.
+- **[can-did](https://github.com/Shane-33/can-did):** A collaborative app for schedule planning, focused on community-driven media development and accessible technology.
 - **[Smart-City](https://github.com/Shane-33/Smart-City):** A platform for urban development and visualization, offering tools for planners and citizens alike to collaborate effectively.
 - **[AI-Predictor](https://github.com/Shane-33/AI-Predictor):** A machine learning-based prediction platform that uses state-of-the-art algorithms for forecasting trends and analyzing data in real-time.
 - **[FinTrack](https://github.com/Shane-33/FinTrack):** A financial portfolio tracker designed for individuals and small businesses, integrating with APIs to track investments and expenses.
