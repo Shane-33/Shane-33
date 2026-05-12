@@ -15,14 +15,6 @@
 
 ---
 
-### About
-I’m a master’s student at the **University of Illinois Urbana-Champaign (UIUC)** building reliable, user-focused systems across **full-stack engineering**, **data/ML**, and **on-chain analytics**.
-
-- Interests: on-chain security & risk signals, AI-assisted analytics, developer tools
-- Open to: research collaborations, internships, and builder communities (Web3 / fintech / AI)
-
----
-
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,go,r,html,css,tailwind,react,nextjs,nodejs,express,flask,django,postgres,mysql,mongodb,redis,prisma,docker,kubernetes,aws,gcp,linux,git,github,vscode,figma,notion" />
