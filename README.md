@@ -22,7 +22,21 @@
 
 ---
 
-### 📊 My Stats:
+### 🚀 Featured Projects
+- **[Editable Report Builder](https://editablereportbuilder.vercel.app/):** A live editable report builder for structured AI-generated reports, visual editing, sharing, and export workflows.
+- **[MediLink AI](https://medi-link-ai.vercel.app/):** An AI-powered medical trade workspace for inquiry analysis, compliance readiness, quote drafting, and supplier workflows.
+- **[can-did](https://github.com/Shane-33/can-did):** A collaborative app for schedule planning and accessible community-driven media development.
+- **[Smart-City](https://github.com/Shane-33/Smart-City):** Urban planning and visualization platform for collaborative smart-city workflows.
+- **[AI-Predictor](https://github.com/Shane-33/AI-Predictor):** Machine learning platform for forecasting trends and real-time analytics.
+- **[FinTrack](https://github.com/Shane-33/FinTrack):** Financial portfolio tracker integrating investment and expense APIs.
+- **[Hackathon-Hub](https://github.com/Shane-33/Hackathon-Hub):** Collaboration and resource-sharing platform for hackathon teams.
+- **[Web3-Wallet](https://github.com/Shane-33/Web3-Wallet):** Decentralized wallet app for secure blockchain transactions.
+- **[VisionaryCV](https://github.com/Shane-33/VisionaryCV):** Computer vision project focused on detection and custom model pipelines.
+- **[GameOn](https://github.com/Shane-33/GameOn):** Gaming analytics dashboard with ML-driven insights.
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shane-33&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <br />
@@ -30,22 +44,8 @@
 </div>
 
 ---
-### 📈 Profile Views:
+
+### 📈 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shane-33&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
-
----
-
-### 🚀 Popular Repositories:
-- **[can-did](https://github.com/Shane-33/can-did):** A collaborative app for schedule planning, focused on community-driven media development and accessible technology.
-- **[Smart-City](https://github.com/Shane-33/Smart-City):** A platform for urban development and visualization, offering tools for planners and citizens alike to collaborate effectively.
-- **[AI-Predictor](https://github.com/Shane-33/AI-Predictor):** A machine learning-based prediction platform that uses state-of-the-art algorithms for forecasting trends and analyzing data in real-time.
-- **[FinTrack](https://github.com/Shane-33/FinTrack):** A financial portfolio tracker designed for individuals and small businesses, integrating with APIs to track investments and expenses.
-- **[Hackathon-Hub](https://github.com/Shane-33/Hackathon-Hub):** A resource-sharing and project-management hub for hackathon teams, enabling seamless collaboration and project tracking.
-- **[Web3-Wallet](https://github.com/Shane-33/Web3-Wallet):** A decentralized Web3 wallet application that provides secure transactions and easy onboarding for crypto and blockchain enthusiasts.
-- **[VisionaryCV](https://github.com/Shane-33/VisionaryCV):** A computer vision-based project focused on facial recognition, object detection, and custom model training pipelines.
-- **[GameOn](https://github.com/Shane-33/GameOn):** A gaming analytics dashboard that leverages player data and machine learning for optimizing game performance and user experience.
-
----
-
